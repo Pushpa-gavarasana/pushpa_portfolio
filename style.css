@@ -42,7 +42,7 @@ a {
 
 }
 #home {
-    background-image: url(./images/IMG_20230905_123728.jpg);
+    background-image: url(https://res.cloudinary.com/dym0nllpz/image/upload/v1694354216/IMG_20230905_123728_nysfov.jpg);
     background-size: cover;
     background-position: top center;
     position : relative;
@@ -98,7 +98,7 @@ a {
  /* project section */
 
 .project_container {
-    background-image: url(./images/solid-concrete-wall-textured-backdrop.jpg);
+    background-image: url(https://res.cloudinary.com/dym0nllpz/image/upload/v1694354239/solid-concrete-wall-textured-backdrop_hcfaun.jpg);
     background-size: cover;
     padding: 15px;
     margin: 10px;
@@ -147,12 +147,15 @@ a {
     margin-bottom: 20px;
     border-radius: 15px;
     margin-top: 20px;
+    padding: 20px;
 }
 .image_aboutme {
-    height: 300px;
-    width: 250px;
+    height: 350px;
+    width: 300px;
     border-style: solid;
     border-radius: 10px;
+    margin-top: 30px;
+    
     
 }
 
